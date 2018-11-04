@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:46263",
-      "sslPort": 44315
+      "applicationUrl": "http://localhost:31217",
+      "sslPort": 44349
     }
   },
   "profiles": {
@@ -19,7 +19,7 @@
     },
     "DatingApp.API": {
       "commandName": "Project",
-      "launchBrowser": false,
+      "launchBrowser": true,
       "launchUrl": "api/values",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
