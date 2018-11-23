@@ -2,7 +2,7 @@ namespace DatingApp.API.Models
 {
     public class User
     {
-        public int id {get; set;}
+        public int Id {get; set;}
 
         public string Username {get; set;}
 
